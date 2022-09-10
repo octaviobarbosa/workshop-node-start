@@ -1,0 +1,14 @@
+{
+  "name": "workshop-start",
+  "version": "1.0.0",
+  "description": "Projeto inicial",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Octavio Barbosa",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
